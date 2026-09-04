@@ -150,6 +150,6 @@ func main() {
 
 [![LinkedIn](https://img.shields.io/badge/-Conecte--se%20no%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-diast)
 
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake" />
+<img src="https://raw.githubusercontent.com/vinicius-dias23/vinicius-dias23/output/github-contribution-grid-snake-dark.svg" alt="snake" />
 
 </div>
