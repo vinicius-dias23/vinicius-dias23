@@ -86,55 +86,6 @@ func main() {
 
 ---
 
-## 💼 Experiência
-
-| Período | Empresa | Cargo | Destaques |
-|---|---|---|---|
-| **06/2025 – atual** | **Educbank** · Fintech educacional | Full Stack Software Engineer | Microsserviços em Go e C# para operações financeiras · APIs seguras e escaláveis · Automações com IA em Python · Front-end em Vue.js · AWS (EC2, S3, RDS, IAM) e IaC |
-| **03/2019 – 05/2025** | **Linear Sistemas** · ERP para varejo | Full Stack Developer | Microsserviços Go com RabbitMQ · APIs REST · Features em ReactJS/Redux · Deploy com ArgoCD + Kubernetes · Terraform e CI/CD |
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=vinicius-dias23&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&locale=pt-br" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinicius-dias23&layout=compact&theme=github_dark&hide_border=true&langs_count=8&locale=pt-br" />
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=vinicius-dias23&theme=github-dark-blue&hide_border=true&locale=pt_BR" />
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vinicius-dias23&theme=github-compact&hide_border=true&area=true" />
-
-</div>
-
----
-
-## 📌 Projetos em destaque
-
-<div align="center">
-
-<a href="https://github.com/vinicius-dias23/vinicius-portfolio">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vinicius-dias23&repo=vinicius-portfolio&theme=github_dark&hide_border=true" />
-</a>
-<a href="https://github.com/vinicius-dias23/Educbank.School">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vinicius-dias23&repo=Educbank.School&theme=github_dark&hide_border=true" />
-</a>
-<a href="https://github.com/vinicius-dias23/go-micro">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vinicius-dias23&repo=go-micro&theme=github_dark&hide_border=true" />
-</a>
-<a href="https://github.com/vinicius-dias23/devbook">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vinicius-dias23&repo=devbook&theme=github_dark&hide_border=true" />
-</a>
-
-</div>
-
----
-
 ## 🎓 Formação & Certificações
 
 - 🎓 **Bacharelado em Engenharia de Software** — PUC Minas *(2021 – cursando)*
@@ -146,10 +97,8 @@ func main() {
 
 <div align="center">
 
-### 🤝 Vamos conversar?
-
 [![LinkedIn](https://img.shields.io/badge/-Conecte--se%20no%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-diast)
 
-<img src="https://raw.githubusercontent.com/vinicius-dias23/vinicius-dias23/output/github-contribution-grid-snake-dark.svg" alt="snake" />
+<!-- <img src="https://raw.githubusercontent.com/vinicius-dias23/vinicius-dias23/output/github-contribution-grid-snake-dark.svg" alt="snake" /> -->
 
 </div>
